@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at SSW as an Intern
+- 🔭 I’m currently working at SSW as a Software Engineer
 - 📫 How to reach me: @ekanS on Discord
 - 😄 Pronouns: He/Him
 

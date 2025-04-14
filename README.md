@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working at SSW as a Software Engineer
+- 🔭 I’m currently working at SSW as a Software Engineer on [YakShaver](https://yakshaver.ai)
 - 📫 How to reach me: @ekanS on Discord
 - 😄 Pronouns: He/Him
 

@@ -3,6 +3,7 @@
 - 🔭 I’m currently working at SSW as a Software Engineer on [YakShaver](https://yakshaver.ai)
 - 📫 How to reach me: @ekanS on Discord
 - 😄 Pronouns: He/Him
+- 🌱 Learning: The latest developments in the 🤖 world
 
 <!--
 - 🌱 I’m currently learning ...
